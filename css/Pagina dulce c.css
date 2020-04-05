@@ -1024,3 +1024,12 @@ footer {
 	
 }
 
+.card-deck{
+	width: 1500px;
+}
+.zoom{
+	transition: transform 0.5s;
+}
+.zoom:hover{
+	transform: scale(1.2);
+}
